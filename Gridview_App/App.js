@@ -37,7 +37,8 @@ export default function App() {
                 </View>
               )
             }
-          }
+          } 
+          
           ></FlatList>
       </View>
     </View>
